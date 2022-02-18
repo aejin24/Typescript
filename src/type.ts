@@ -12,6 +12,13 @@ let sentence: string = `color is ${color}`;
 
 let student: {name: string, id: number, addr?: string} = {name: "lee", id: 1};
 
+type NameTypes = {
+    firstName: string,
+    lastName: string
+}
+
+let student2: NameTypes = { firstName: "lee", lastName: "aejin"}
+
 let list: number[] = [1, 2, 3];
 let list2: Array<number> = [1, 2, 3];
 
