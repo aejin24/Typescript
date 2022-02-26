@@ -1,3 +1,5 @@
+export {};
+
 // #1. 함수 type 정의
 function add (num1: number, num2: number): number {
     return num1 + num2;

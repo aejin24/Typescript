@@ -1,3 +1,5 @@
+export {};
+
 // 1. 인터페이스 사용
 interface OrderSheet {
     ingredient: string;

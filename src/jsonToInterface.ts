@@ -1,3 +1,5 @@
+export {};
+
 // 만약 json 형태가 아래와 같이 있다면 interface를 이와 같이 구현할 수 있다 
 const dataObject = {
     "People": {

@@ -1,3 +1,5 @@
+export {};
+
 let isTrue: boolean = false;
 
 let decimal: number = 12;

@@ -1,3 +1,5 @@
+export {};
+
 // 튜플 타입으로 선언
 let x: [string, number];
 // 초기화
