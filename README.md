@@ -7,3 +7,4 @@
 |02.20|function|함수|
 |02.24|interface/jsonToInterface.ts|json to interface|
 |02.26|dom|DOM API 타입 단언|
+|02.27|types/alias.ts, types/enum.ts|const enums, type alias|
