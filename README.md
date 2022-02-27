@@ -1,7 +1,4 @@
 ## Typescript
-
----
-
 ### Root Directory - src
 
 |DATE|DIRECTORY NAME|DESCRIPTION|
