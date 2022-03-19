@@ -1,4 +1,4 @@
-## Typescript
+## Typescript ([BLOG](https://guiltless-slug-fcb.notion.site/TypeScript-fc1895c6b233408686fd8b53553aafba))
 ### Root Directory - src
 
 |DATE|DIRECTORY NAME|DESCRIPTION|
